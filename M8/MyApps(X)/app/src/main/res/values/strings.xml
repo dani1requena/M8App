@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">MyApplication</string>
+    <string name="txtPassword"> Password</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nav_home">Home</string>
+    <string name="login">Login</string>
+    <string name="username">UserName</string>
+    <string name="home">Home</string>
+    <string name="list">List</string>
+    <string name="form">Form</string>
+    <string name="traccion">Traction</string>
+    <string name="guardar">Save</string>
+    <string name="motor">Motor</string>
+    <string name="modelo">Model</string>
+    <string name="marca">Make</string>
+    <string name="mark">Make</string>
+    <string name="lista">Lista</string>
+    <string name="traction">Traccion</string>
+    <string name="engine">Motor</string>
+    <string name="model">TextView</string>
+    <string name="make">TextView</string>
+    <string name="guardar_usuario">Save User</string>
+    <string name="dejar_sesio_iniciada">Mantain session open</string>
+    <string name="dejar_sesion_iniciada">Mantain session open</string>
+</resources>

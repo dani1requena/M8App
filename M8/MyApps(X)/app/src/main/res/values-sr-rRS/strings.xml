@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyApplication</string>
+    <string name="txtPassword"> Password</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nav_home">Почетак</string>
+    <string name="login">Пријавите се</string>
+    <string name="username">Корисничко име</string>
+    <string name="home">Почетак</string>
+    <string name="list">Cпреман</string>
+    <string name="form">форму</string>
+    <string name="traccion">Bуча</string>
+    <string name="guardar">Cачувати</string>
+    <string name="motor">Motop</string>
+    <string name="modelo">Mодел</string>
+    <string name="marca">Mapka</string>
+    <string name="mark">Mapka</string>
+    <string name="lista">Спреман</string>
+    <string name="traction">Bуча</string>
+    <string name="engine">Motop</string>
+    <string name="model">Mодел</string>
+    <string name="make">Mapka</string>
+    <string name="guardar_usuario">Cачувати Корисничко име</string>
+    <string name="dejar_sesio_iniciada">Cедница напуштања је почела</string>
+    <string name="dejar_sesion_iniciada">Cедница напуштања је почела</string>
+</resources>
